@@ -1,6 +1,6 @@
 # Overview
 
-This repository track the books I have read, and other activities related to my natural language learning activities.
+This repository tracks the books I have read and other activities related to my natural language learning activities.
 
 # German 
 
@@ -35,8 +35,8 @@ This repository track the books I have read, and other activities related to my 
 
 # French (since July 2021)
 
-Duolingo: ~80 Crowns + all unlocked stories
-Linq: intro stories, Alice Ayel, Wandering French, InnerFrench
+- Duolingo: ~80 Crowns + all unlocked stories
+- Linq: intro stories, Alice Ayel, Wandering French, InnerFrench
 
 ## Books Read
 
