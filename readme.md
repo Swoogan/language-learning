@@ -11,27 +11,28 @@ This repository tracks the books I have read and other activities related to my 
 
 ## Books (since October 2020)
 
-- 101 Conversations in Simple German by Ollie Richards
-- Café in Berlin (Dino Lernt Deutsch) by André Klein
-- Ferien in Frankfurt (Dino Lernt Deutsch) by André Klein
-- Karneval in Köln (Dino Lernt Deutsch) by André Klein
-- Momente in München (Dino Lernt Deutsch) by André Klein
-- Ahoi aus Hamburg (Dino Lernt Deutsch) by André Klein
-- Plötzlich in Palermo (Dino Lernt Deutsch) by André Klein
-- Walzer in Wien (Dino Lernt Deutsch) by André Klein
-- Zurück in Zürich (Dino Lernt Deutsch) by André Klein
-- 100 German Short Stories for Beginners by Mustafa Yildirim
-- Nachbar Nr. 5 by Angelika Bohn
-- Immer weider Sascha by Angelika Bohn
-- Nie wieder Merle? by Angelika Bohn
-- Der silberne Kugelschreiber by Angelika Bohn
-- German Short Stories for Beginners by Lingo Mastery
-- Falsche Adresse by Angelika Bohn
-- Die Reise zum Mittlepunkt der Erde by Dominik Wexenburger, Jules Verne
-- Die Schatzinsel by Dominik Wexenburger, Robert Louis Stevenson
-- Für S. by Angelika Bohn
-- Doktor Jekyll und Herr Hyde by Dominik Wexenburger, Robert Louis Stevenson
-- Herr Quintus und die geheime Liste by Angelika Bohn
+- 101 Conversations in Simple German von Ollie Richards
+- Café in Berlin (Dino Lernt Deutsch) von André Klein
+- Ferien in Frankfurt (Dino Lernt Deutsch) von André Klein
+- Karneval in Köln (Dino Lernt Deutsch) von André Klein
+- Momente in München (Dino Lernt Deutsch) von André Klein
+- Ahoi aus Hamburg (Dino Lernt Deutsch) von André Klein
+- Plötzlich in Palermo (Dino Lernt Deutsch) von André Klein
+- Walzer in Wien (Dino Lernt Deutsch) von André Klein
+- Zurück in Zürich (Dino Lernt Deutsch) von André Klein
+- 100 German Short Stories for Beginners von Mustafa Yildirim
+- Nachbar Nr. 5 von Angelika Bohn
+- Immer weider Sascha von Angelika Bohn
+- Nie wieder Merle? von Angelika Bohn
+- Der silberne Kugelschreiber von Angelika Bohn
+- German Short Stories for Beginners von Lingo Mastery
+- Falsche Adresse von Angelika Bohn
+- Die Reise zum Mittlepunkt der Erde von Dominik Wexenburger, Jules Verne
+- Die Schatzinsel von Dominik Wexenburger, Robert Louis Stevenson
+- Für S. von Angelika Bohn
+- Doktor Jekyll und Herr Hyde von Dominik Wexenburger, Robert Louis Stevenson
+- Herr Quintus und die geheime Liste von Angelika Bohn
+- Der kleine Drache: Das Märchen vom einsamen Drachen von Dörte Müller 
 
 # French (since July 2021)
 
