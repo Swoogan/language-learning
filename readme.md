@@ -44,6 +44,7 @@ This repository tracks the books I have read and other activities related to my 
 - Doktor Jekyll und Herr Hyde von Dominik Wexenburger, Robert Louis Stevenson
 - Herr Quintus und die geheime Liste von Angelika Bohn
 - Der kleine Drache: Das Märchen vom einsamen Drachen von Dörte Müller 
+- Schlaf gut, kleiner Fuchs!: Gute-Nacht-Geschichten von Dörte Müller 
 
 ## Netflix et al
 
