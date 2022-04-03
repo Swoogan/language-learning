@@ -45,6 +45,8 @@ This repository tracks the books I have read and other activities related to my 
 - Herr Quintus und die geheime Liste von Angelika Bohn
 - Der kleine Drache: Das Märchen vom einsamen Drachen von Dörte Müller 
 - Schlaf gut, kleiner Fuchs!: Gute-Nacht-Geschichten von Dörte Müller 
+- Harry findet einen Freund von Dörte Müller 
+- Beast Quest: Ferno, Herr des Feuers von Adam Blade, Petra Wiese
 
 ## Netflix et al
 
