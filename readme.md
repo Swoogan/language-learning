@@ -10,8 +10,8 @@ This repository tracks the books I have read and other activities related to my 
 - TV5 Monde Apprendre
 - Black Cat CIDEB  eReader
 - Tandem (Mobile app)
-- [Simple Translate] (https://addons.mozilla.org/en-CA/firefox/addon/simple-translate/)
-- [Language Reactor] (https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm)
+- [Simple Translate](https://addons.mozilla.org/en-CA/firefox/addon/simple-translate/)
+- [Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm)
 
 # German
 
