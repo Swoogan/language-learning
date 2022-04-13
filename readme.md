@@ -6,7 +6,7 @@ This repository tracks the books I have read and other activities related to my 
 
 - Duolingo
 - Memrise
-- Linq
+- Lingq
 - TV5 Monde Apprendre
 - Black Cat CIDEB  eReader
 - Tandem (Mobile app)
