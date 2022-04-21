@@ -53,6 +53,7 @@ This repository tracks the books I have read and other activities related to my 
 - Beast Quest: Nanook, Herrscherin der Eiswüste von Adam Blade, Petra Wiese
 - Beast Quest: Eposs, Gebieterin der Lüfte von Adam Blade, Petra Wiese
 - Galaxy Force: Coloss, Berg des Bösen von Adam Blade, Sandra Margineanu
+- Die Kliene Hexe von Otfried Preußler 
 
 ## Netflix et al
 
