@@ -102,6 +102,7 @@ n: native
 - Histoires à lire le soir par Marc Thil
 - Michel Stogoff (A1) par CLE International, Jules Verne
 - Voyage au centre de la Terre (A1) par CLE International, Jules Verne
+- Un capitaine de quinze ans (A1) par CLE International, Jules Verne
 
 ## Netflix
 
