@@ -55,6 +55,7 @@ This repository tracks the books I have read and other activities related to my 
 - Galaxy Force: Coloss, Berg des Bösen von Adam Blade, Sandra Margineanu
 - Die Kliene Hexe von Otfried Preußler 
 - Der Räuber Hotzenplotz von Otfried Preußler
+- Emil Und die Detektive von Erich Kästner
 
 ## Netflix et al
 
