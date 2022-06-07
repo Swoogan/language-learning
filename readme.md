@@ -56,6 +56,7 @@ This repository tracks the books I have read and other activities related to my 
 - Die Kliene Hexe von Otfried Preußler 
 - Der Räuber Hotzenplotz von Otfried Preußler
 - Emil Und die Detektive von Erich Kästner
+- Gespensterjäger auf eisiger Spur von Cornelia Funke
 
 ## Netflix et al
 
