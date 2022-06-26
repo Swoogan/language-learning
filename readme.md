@@ -57,6 +57,7 @@ This repository tracks the books I have read and other activities related to my 
 - Der Räuber Hotzenplotz von Otfried Preußler
 - Emil Und die Detektive von Erich Kästner
 - Gespensterjäger auf eisiger Spur von Cornelia Funke
+- Die Chroniken von Araluen - Die Ruinen von Gorlan von John Flanagan (Autor), Karlheinz Dürr (Übersetzer) 
 
 ## Netflix et al
 
@@ -72,6 +73,7 @@ This repository tracks the books I have read and other activities related to my 
 - Sword Art Online (s1, d)
 - How to Sell Drugs Online: Fast (s1-3, n)
 - Star Trek Enterprise (s1-3, d)
+- Stranger Things (s1-2, d)
 
 d: dubbed
 n: native
