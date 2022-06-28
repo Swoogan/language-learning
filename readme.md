@@ -72,8 +72,9 @@ This repository tracks the books I have read and other activities related to my 
 - Dark (complete, n)
 - Sword Art Online (s1, d)
 - How to Sell Drugs Online: Fast (s1-3, n)
+- Dragon's Dogma (complete, d)
 - Star Trek Enterprise (s1-3, d)
-- Stranger Things (s1-2, d)
+- Stranger Things (s1-3, d)
 
 d: dubbed
 n: native
