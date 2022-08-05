@@ -12,6 +12,7 @@ This repository tracks the books I have read and other activities related to my 
 - Tandem (Mobile app)
 - [Simple Translate](https://addons.mozilla.org/en-CA/firefox/addon/simple-translate/)
 - [Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm)
+- Clozemaster
 
 # German
 
@@ -65,10 +66,10 @@ This repository tracks the books I have read and other activities related to my 
 - Star Trek DS9 (s1-3, d)
 - Disenchantment (s1-2, d)
 - Castlevania (s1, d)
+- Afterlife (s1, d)
 - Biohackers (s1, n)
 - Dogs of Berlin (a few episodes, n)
-- Afterlife (s1, d)
-- The Witcher (s1, d)
+- The Witcher (s2, d)
 - Shadow and Bone (s1, d)
 - Jupiter's Legacy (complete, d)
 - The Mandalorian (s1-2, d)
@@ -76,7 +77,7 @@ This repository tracks the books I have read and other activities related to my 
 - Sword Art Online (s1, d)
 - How to Sell Drugs Online: Fast (s1-3, n)
 - Dragon's Dogma (complete, d)
-- Star Trek Enterprise (s1-3, d)
+- Star Trek Enterprise (complete, d)
 - Stranger Things (s1-3, d)
 
 d: dubbed
@@ -86,6 +87,8 @@ n: native
 
 - Duolingo: 70 Crowns + most unlocked stories
 - Linq: intro stories, Alice Ayel, Wandering French, InnerFrench
+- Memrise: French 2 (partly)
+- Clozemaster 300 simpliest words
 
 ## Books Read (since July 2021)
 
@@ -116,7 +119,7 @@ n: native
 - Le Mystere du train de la nuit par Marc Thil
 - La petite Yvana par Marc Thil
 
-## Netflix
+## Netflix, et al
 
 - The Seven Deadly Sins (s1, Japanese audio, French subtitles)
 - Eden Zero (3 episodes, Japanese audio, French subtitles)
@@ -124,6 +127,7 @@ n: native
 - Lupin (select episodes, n)
 - Le foret (complete, n)
 - Zone blanc (6 episodes, n)
+- Boba Fett (s1, d)
 - The Boys (s1, d)
 
 d: dubbed
