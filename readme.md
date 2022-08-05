@@ -61,10 +61,13 @@ This repository tracks the books I have read and other activities related to my 
 
 ## Netflix et al
 
+- Nico's Weg (a1,a2)
 - Star Trek DS9 (s1-3, d)
 - Disenchantment (s1-2, d)
+- Castlevania (s1, d)
 - Biohackers (s1, n)
 - Dogs of Berlin (a few episodes, n)
+- Afterlife (s1, d)
 - The Witcher (s1, d)
 - Shadow and Bone (s1, d)
 - Jupiter's Legacy (complete, d)
@@ -109,6 +112,9 @@ n: native
 - Michel Stogoff (A1) par CLE International, Jules Verne
 - Voyage au centre de la Terre (A1) par CLE International, Jules Verne
 - Un capitaine de quinze ans (A1) par CLE International, Jules Verne
+- Vingt mille lieues sous les mers (A1) par CLE International, Jules Verne, Brigitte Faucard-Martinez
+- Le Mystere du train de la nuit par Marc Thil
+- La petite Yvana par Marc Thil
 
 ## Netflix
 
@@ -117,7 +123,8 @@ n: native
 - How I Met Your Mother (~6 episodes, French audio, French subtitles)
 - Lupin (select episodes, n)
 - Le foret (complete, n)
-- Zone blanc (3 episodes, n)
+- Zone blanc (6 episodes, n)
+- The Boys (s1, d)
 
 d: dubbed
 n: native
