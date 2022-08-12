@@ -118,6 +118,7 @@ n: native
 - Vingt mille lieues sous les mers (A1) par CLE International, Jules Verne, Brigitte Faucard-Martinez
 - Le Mystere du train de la nuit par Marc Thil
 - La petite Yvana par Marc Thil
+- Vacances dans la tourmente par Marc Thil
 
 ## Netflix, et al
 
@@ -126,9 +127,10 @@ n: native
 - How I Met Your Mother (~6 episodes, French audio, French subtitles)
 - Lupin (select episodes, n)
 - Le foret (complete, n)
-- Zone blanc (6 episodes, n)
+- Zone blanc (s1, n)
 - Boba Fett (s1, d)
 - The Boys (s1, d)
+- Moon Knight (s1, d)
 
 d: dubbed
 n: native
