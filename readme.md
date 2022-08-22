@@ -131,6 +131,7 @@ n: native
 - Boba Fett (s1, d)
 - The Boys (s1, d)
 - Moon Knight (s1, d)
+- WandaVision (s1, d)
 
 d: dubbed
 n: native
