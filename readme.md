@@ -116,9 +116,10 @@ n: native
 - Voyage au centre de la Terre (A1) par CLE International, Jules Verne
 - Un capitaine de quinze ans (A1) par CLE International, Jules Verne
 - Vingt mille lieues sous les mers (A1) par CLE International, Jules Verne, Brigitte Faucard-Martinez
-- Le Mystere du train de la nuit par Marc Thil
+- Le mystère du train de la nuit par Marc Thil
 - La petite Yvana par Marc Thil
 - Vacances dans la tourmente par Marc Thil
+- Le mystère de la falaise rouge par Marc Thil
 
 ## Netflix, et al
 
@@ -130,8 +131,12 @@ n: native
 - Zone blanc (s1, n)
 - Boba Fett (s1, d)
 - The Boys (s1, d)
-- Moon Knight (s1, d)
-- WandaVision (s1, d)
+- Moon Knight (complete, d)
+- WandaVision (complete, d)
+- The Falcon and the Winter Soldier (complete, d)
+- Loki (s1, d)
+- Black Widow (d)
+
 
 d: dubbed
 n: native
