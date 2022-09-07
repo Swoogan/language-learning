@@ -94,13 +94,13 @@ n: native
 
 - 101 Conversations in Simple French par Ollie Richards
 - Histoire de Babar par Jean De Brunhoff
-- Le voyage de Babar par Jean De Brunhoff
-- French Short stories for Beginners par Frederic Bibard
 - Merde, It’s Not Easy to Learn French par France Dubin
 - Petit déjeuner à Paris par France Dubin
+- Le voyage de Babar par Jean De Brunhoff
 - Déjeuner à Paris par France Dubin
-- Vol 747 pour Paris par Sylvie Lainé
 - Le Pendentif par Sylvie Lainé
+- Vol 747 pour Paris par Sylvie Lainé
+- French Short stories for Beginners par Frederic Bibard
 - Learn French with Short Stories par Hacking French
 - Voyage en France par Sylvie Lainé
 - Voyage à Marseille par Sylvie Lainé
