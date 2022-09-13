@@ -120,6 +120,7 @@ n: native
 - La petite Yvana par Marc Thil
 - Vacances dans la tourmente par Marc Thil
 - Le mystère de la falaise rouge par Marc Thil
+- Porteur de masques (Amos Daragon t. 1) par Bryan Perro
 
 ## Netflix, et al
 
@@ -136,6 +137,8 @@ n: native
 - The Falcon and the Winter Soldier (complete, d)
 - Loki (s1, d)
 - Black Widow (d)
+- Shang-Chi (d)
+- Eternals (d)
 
 
 d: dubbed
