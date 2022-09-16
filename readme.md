@@ -139,6 +139,7 @@ n: native
 - Black Widow (d)
 - Shang-Chi (d)
 - Eternals (d)
+- Hawkeye (complete, d)
 
 
 d: dubbed
