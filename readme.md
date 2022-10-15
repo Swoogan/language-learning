@@ -140,6 +140,9 @@ n: native
 - Shang-Chi (d)
 - Eternals (d)
 - Hawkeye (complete, d)
+- The Orville (s1, d)
+- Obi-Wan (complete, d)
+- Andor (s1, d)
 
 
 d: dubbed
