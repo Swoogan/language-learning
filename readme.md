@@ -59,6 +59,7 @@ This repository tracks the books I have read and other activities related to my 
 - Emil Und die Detektive von Erich Kästner
 - Gespensterjäger auf eisiger Spur von Cornelia Funke
 - Die Chroniken von Araluen - Die Ruinen von Gorlan von John Flanagan (Autor), Karlheinz Dürr (Übersetzer) 
+- Die Chroniken von Araluen - Die brennende Brücke von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
 
 ## Netflix et al
 
@@ -143,6 +144,8 @@ n: native
 - The Orville (s1, d)
 - Obi-Wan (complete, d)
 - Andor (s1, d)
+- Ms. Marvel (s1, d)
+- She-Hulk (complete, d)
 
 
 d: dubbed
