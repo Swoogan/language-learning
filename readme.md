@@ -60,6 +60,7 @@ This repository tracks the books I have read and other activities related to my 
 - Gespensterjäger auf eisiger Spur von Cornelia Funke
 - Die Chroniken von Araluen - Die Ruinen von Gorlan von John Flanagan (Autor), Karlheinz Dürr (Übersetzer) 
 - Die Chroniken von Araluen - Die brennende Brücke von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
+- Die Chroniken von Araluen - Der eiserne Ritter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
 
 ## Netflix et al
 
