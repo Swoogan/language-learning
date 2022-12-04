@@ -79,6 +79,9 @@ This repository tracks the books I have read and other activities related to my 
 - Sword Art Online (s1, d)
 - How to Sell Drugs Online: Fast (s1-3, n)
 - Dragon's Dogma (complete, d)
+- Love Death + Robots (s1-3, d)
+- American Gods (s1 e1-5, d)
+- 
 - Star Trek Enterprise (complete, d)
 - Stranger Things (s1-3, d)
 
@@ -89,8 +92,8 @@ n: native
 
 - Duolingo: 70 Crowns + most unlocked stories
 - Linq: intro stories, Alice Ayel, Wandering French, InnerFrench
-- Memrise: French 2 (partly)
-- Clozemaster 300 simpliest words
+- Memrise: French 2, part of 3
+- Clozemaster 100, 500 simpliest words (in progress)
 
 ## Books Read (since July 2021)
 
@@ -123,6 +126,7 @@ n: native
 - Vacances dans la tourmente par Marc Thil
 - Le mystère de la falaise rouge par Marc Thil
 - Porteur de masques (Amos Daragon t. 1) par Bryan Perro
+- Histoire du chien Gribouille par Marc Thil
 
 ## Netflix, et al
 
@@ -144,9 +148,11 @@ n: native
 - Hawkeye (complete, d)
 - The Orville (s1, d)
 - Obi-Wan (complete, d)
-- Andor (s1, d)
 - Ms. Marvel (s1, d)
 - She-Hulk (complete, d)
+- Andor (s1, d)
+- The Rings of Power (s1 e1-6)
+- Spiderman: Home Coming (d)
 
 
 d: dubbed
