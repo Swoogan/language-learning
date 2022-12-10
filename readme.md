@@ -127,6 +127,8 @@ n: native
 - Le mystère de la falaise rouge par Marc Thil
 - Porteur de masques (Amos Daragon t. 1) par Bryan Perro
 - Histoire du chien Gribouille par Marc Thil
+- Un voisin étrange par Florian Dennisson
+- Chroniques post-apocalyptiques d'une enfant sage par Annie Bacon
 
 ## Netflix, et al
 
