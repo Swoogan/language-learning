@@ -81,9 +81,9 @@ This repository tracks the books I have read and other activities related to my 
 - Dragon's Dogma (complete, d)
 - Love Death + Robots (s1-3, d)
 - American Gods (s1 e1-5, d)
-- 
 - Star Trek Enterprise (complete, d)
 - Stranger Things (s1-3, d)
+- Spiderman: Far From Home (d)
 
 d: dubbed
 n: native
@@ -93,7 +93,8 @@ n: native
 - Duolingo: 70 Crowns + most unlocked stories
 - Linq: intro stories, Alice Ayel, Wandering French, InnerFrench
 - Memrise: French 2, part of 3
-- Clozemaster 100, 500 simpliest words (in progress)
+- Clozemaster 100 simplest words (complete)
+- Clozemaster 500 simplest words (in progress)
 
 ## Books Read (since July 2021)
 
@@ -129,6 +130,7 @@ n: native
 - Histoire du chien Gribouille par Marc Thil
 - Un voisin étrange par Florian Dennisson
 - Chroniques post-apocalyptiques d'une enfant sage par Annie Bacon
+- Chasseuse d'âmes: La Danse des ombres par Megära Nolhan et Pryscia Oscar 
 
 ## Netflix, et al
 
@@ -153,8 +155,10 @@ n: native
 - Ms. Marvel (s1, d)
 - She-Hulk (complete, d)
 - Andor (s1, d)
-- The Rings of Power (s1 e1-6)
+- The Rings of Power (s1 e1-6, d)
 - Spiderman: Home Coming (d)
+- Spiderman: No Way Home (d)
+- Witcher: Blood Origins (complete, d)
 
 
 d: dubbed
