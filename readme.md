@@ -84,6 +84,7 @@ This repository tracks the books I have read and other activities related to my 
 - Star Trek Enterprise (complete, d)
 - Stranger Things (s1-3, d)
 - Spiderman: Far From Home (d)
+- Arcane (s1, d)
 
 d: dubbed
 n: native
@@ -159,6 +160,7 @@ n: native
 - Spiderman: Home Coming (d)
 - Spiderman: No Way Home (d)
 - Witcher: Blood Origins (complete, d)
+- Wednesday (s1, d)
 
 
 d: dubbed
