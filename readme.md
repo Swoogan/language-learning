@@ -97,6 +97,8 @@ n: native
 - Memrise: French 2, part of 3
 - Clozemaster 100 simplest words (complete)
 - Clozemaster 500 simplest words (in progress)
+- Easy French Youtube Channel
+- Easy French podcast
 
 ## Books Read (since July 2021)
 
