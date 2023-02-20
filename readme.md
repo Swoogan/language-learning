@@ -61,6 +61,7 @@ This repository tracks the books I have read and other activities related to my 
 - Die Chroniken von Araluen - Die Ruinen von Gorlan von John Flanagan (Autor), Karlheinz Dürr (Übersetzer) 
 - Die Chroniken von Araluen - Die brennende Brücke von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
 - Die Chroniken von Araluen - Der eiserne Ritter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
+- Die Chroniken von Araluen - Der Angriff der Temujai-Reiter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
 
 ## Netflix et al
 
@@ -132,6 +133,7 @@ n: native
 - Un voisin étrange par Florian Dennisson
 - Chroniques post-apocalyptiques d'une enfant sage par Annie Bacon
 - Chasseuse d'âmes: La Danse des ombres par Megära Nolhan et Pryscia Oscar 
+- Chasseuse d'âmes: Le Prix du savoir par Megära Nolhan et Pryscia Oscar 
 
 ## Netflix, et al
 
