@@ -165,7 +165,8 @@ n: native
 - Spiderman: No Way Home (d)
 - Witcher: Blood Origins (complete, d)
 - Wednesday (s1, d)
-
+- The Climb (n)
+- Inhuman Resources (s1, n)
 
 d: dubbed
 n: native
