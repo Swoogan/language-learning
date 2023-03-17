@@ -167,6 +167,8 @@ n: native
 - Wednesday (s1, d)
 - The Climb (n)
 - Inhuman Resources (s1, n)
+- Bad Seeds (n)
+- Spoiled Brats (n)
 
 d: dubbed
 n: native
