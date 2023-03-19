@@ -169,6 +169,7 @@ n: native
 - Inhuman Resources (s1, n)
 - Bad Seeds (n)
 - Spoiled Brats (n)
+- The Wolf's Call (n)
 
 d: dubbed
 n: native
