@@ -62,6 +62,8 @@ This repository tracks the books I have read and other activities related to my 
 - Die Chroniken von Araluen - Die brennende Brücke von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
 - Die Chroniken von Araluen - Der eiserne Ritter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
 - Die Chroniken von Araluen - Der Angriff der Temujai-Reiter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
+- Beast Quest: Ferno, Herr des Feuers von Adam Blade, Petra Wiese
+- Nachbar Nr. 5 von Angelika Bohn
 
 ## Netflix et al
 
