@@ -65,6 +65,9 @@ This repository tracks the books I have read and other activities related to my 
 - Beast Quest: Ferno, Herr des Feuers von Adam Blade, Petra Wiese
 - Nachbar Nr. 5 von Angelika Bohn
 - Beast Quest: Sepron, König der Meere von Adam Blade, Petra Wiese
+- Beast Quest: Arcta, Bezwinger der Berge von Adam Blade, Petra Wiese
+- Beast Quest: Tagus, Prinz der Steppe von Adam Blade, Petra Wiese
+- Beast Quest: Nanook, Herrscherin der Eiswüste von Adam Blade, Petra Wiese
 
 ## Netflix et al
 
