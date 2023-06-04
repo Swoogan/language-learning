@@ -68,6 +68,11 @@ This repository tracks the books I have read and other activities related to my 
 - Beast Quest: Arcta, Bezwinger der Berge von Adam Blade, Petra Wiese
 - Beast Quest: Tagus, Prinz der Steppe von Adam Blade, Petra Wiese
 - Beast Quest: Nanook, Herrscherin der Eiswüste von Adam Blade, Petra Wiese
+- Beast Quest: Eposs, Gebieterin der Lüfte von Adam Blade, Petra Wiese
+- Beast Quest: Zefa, Giagnat des Ozeans von Adam Blade, Petra Wiese
+- Der Räuber Hotzenplotz von Otfried Preußler
+- Harry findet einen Freund von Dörte Müller 
+- Beast Quest: Clark, Riese des Dschungels von Adam Blade, Petra Wiese
 
 ## Netflix et al
 
