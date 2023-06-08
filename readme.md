@@ -73,6 +73,7 @@ This repository tracks the books I have read and other activities related to my 
 - Der Räuber Hotzenplotz von Otfried Preußler
 - Harry findet einen Freund von Dörte Müller 
 - Beast Quest: Clark, Riese des Dschungels von Adam Blade, Petra Wiese
+- Schule der Helden: Bedrohung aus der Unterwelt von Adam Blade, Sandra Margineanu
 
 ## Netflix et al
 
