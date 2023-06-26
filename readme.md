@@ -74,6 +74,8 @@ This repository tracks the books I have read and other activities related to my 
 - Harry findet einen Freund von Dörte Müller 
 - Beast Quest: Clark, Riese des Dschungels von Adam Blade, Petra Wiese
 - Schule der Helden: Bedrohung aus der Unterwelt von Adam Blade, Sandra Margineanu
+- Schule der Helden: Angriff der Fledermaus-Armee von Adam Blade, Sandra Margineanu
+- Schule der Helden: Entführung ins Schattenreich von Adam Blade, Sandra Margineanu
 
 ## Netflix et al
 
