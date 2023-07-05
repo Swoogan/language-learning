@@ -101,6 +101,7 @@ This repository tracks the books I have read and other activities related to my 
 - Stranger Things (s1-3, d)
 - Spiderman: Far From Home (d)
 - Arcane (s1, d)
+- Buba (n)
 
 d: dubbed
 n: native
