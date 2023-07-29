@@ -152,6 +152,9 @@ n: native
 - Chroniques post-apocalyptiques d'une enfant sage par Annie Bacon
 - Chasseuse d'âmes: La Danse des ombres par Megära Nolhan et Pryscia Oscar 
 - Chasseuse d'âmes: Le Prix du savoir par Megära Nolhan et Pryscia Oscar 
+- La petite Yvana par Marc Thil
+- Le mystère du train de la nuit par Marc Thil (incomplete)
+
 
 ## Netflix, et al
 
@@ -186,6 +189,7 @@ n: native
 - Bad Seeds (n)
 - Spoiled Brats (n)
 - The Wolf's Call (n)
+- Blue Planet II (s2, d)
 
 d: dubbed
 n: native
