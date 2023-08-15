@@ -154,6 +154,8 @@ n: native
 - Chasseuse d'âmes: Le Prix du savoir par Megära Nolhan et Pryscia Oscar 
 - La petite Yvana par Marc Thil
 - Le mystère du train de la nuit par Marc Thil (incomplete)
+- Interdit! par Florence Jenner Metz
+- Lucie Simes et le miroir brisé par Benjamin Leduc
 
 
 ## Netflix, et al
