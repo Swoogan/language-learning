@@ -156,6 +156,7 @@ n: native
 - Le mystère du train de la nuit par Marc Thil (incomplete)
 - Interdit! par Florence Jenner Metz
 - Lucie Simes et le miroir brisé par Benjamin Leduc
+- Orage, petit seigneur des ténèbres par Julien Hervieux
 
 
 ## Netflix, et al
@@ -192,6 +193,7 @@ n: native
 - Spoiled Brats (n)
 - The Wolf's Call (n)
 - Blue Planet II (s2, d)
+- The Mandalorian (s3, d)
 
 d: dubbed
 n: native
