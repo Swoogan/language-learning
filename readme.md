@@ -157,6 +157,7 @@ n: native
 - Interdit! par Florence Jenner Metz
 - Lucie Simes et le miroir brisé par Benjamin Leduc
 - Orage, petit seigneur des ténèbres par Julien Hervieux
+- Chasseuse d'âmes: Les Murmures du chaos par Megära Nolhan et Pryscia Oscar 
 
 
 ## Netflix, et al
