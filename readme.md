@@ -158,6 +158,7 @@ n: native
 - Lucie Simes et le miroir brisé par Benjamin Leduc
 - Orage, petit seigneur des ténèbres par Julien Hervieux
 - Chasseuse d'âmes: Les Murmures du chaos par Megära Nolhan et Pryscia Oscar 
+- La Guerre des Sept Lunes: Edhelja et l'Odelunier Perdu par Kenan Olivier
 
 
 ## Netflix, et al
@@ -195,6 +196,8 @@ n: native
 - The Wolf's Call (n)
 - Blue Planet II (s2, d)
 - The Mandalorian (s3, d)
+- Vortex (n)
+- Dungeons and Dragons (d)
 
 d: dubbed
 n: native
