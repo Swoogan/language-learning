@@ -77,6 +77,7 @@ This repository tracks the books I have read and other activities related to my 
 - Schule der Helden: Angriff der Fledermaus-Armee von Adam Blade, Sandra Margineanu
 - Schule der Helden: Entführung ins Schattenreich von Adam Blade, Sandra Margineanu
 - Schule der Helden: Hinterhalt der Skelett-Krieger von Adam Blade, Sandra Margineanu
+- Die Chroniken von Avantia (Band 1) - Der Kampf des Phönix: Abenteuer in der bekannten Welt aus Beast Quest von Adam Blade, Ulrich Thiele
 
 ## Netflix et al
 
