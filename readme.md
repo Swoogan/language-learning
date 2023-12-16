@@ -103,6 +103,9 @@ This repository tracks the books I have read and other activities related to my 
 - Spiderman: Far From Home (d)
 - Arcane (s1, d)
 - Buba (n)
+-------------- (native subtitles) ---------------
+- Biohackers (s1-2, n)
+- Liebe Kind (complete, n)
 
 d: dubbed
 n: native
