@@ -78,6 +78,7 @@ This repository tracks the books I have read and other activities related to my 
 - Schule der Helden: Entführung ins Schattenreich von Adam Blade, Sandra Margineanu
 - Schule der Helden: Hinterhalt der Skelett-Krieger von Adam Blade, Sandra Margineanu
 - Die Chroniken von Avantia (Band 1) - Der Kampf des Phönix: Abenteuer in der bekannten Welt aus Beast Quest von Adam Blade, Ulrich Thiele
+- Trägers des Feuers: Band I - Die Wiedergeburt von Harry N. Bockman
 
 ## Netflix et al
 
@@ -107,7 +108,7 @@ This repository tracks the books I have read and other activities related to my 
 -------------- (native subtitles) ---------------
 - Biohackers (s1-2, n)
 - Liebe Kind (complete, n)
-- The Dragon Prince (s1-3, n)
+- The Dragon Prince (s1-4, n)
 
 d: dubbed
 n: native
