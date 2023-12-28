@@ -109,6 +109,7 @@ This repository tracks the books I have read and other activities related to my 
 -------------- (native subtitles) ---------------
 - Biohackers (s1-2, n)
 - Liebe Kind (complete, n)
+- Parfum (complete, n)
 - The Dragon Prince (s1-5, d)
 - Avatar: The Last Airbender (s1, d)
 
