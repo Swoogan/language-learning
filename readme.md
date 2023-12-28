@@ -77,8 +77,9 @@ This repository tracks the books I have read and other activities related to my 
 - Schule der Helden: Angriff der Fledermaus-Armee von Adam Blade, Sandra Margineanu
 - Schule der Helden: Entführung ins Schattenreich von Adam Blade, Sandra Margineanu
 - Schule der Helden: Hinterhalt der Skelett-Krieger von Adam Blade, Sandra Margineanu
-- Die Chroniken von Avantia (Band 1) - Der Kampf des Phönix: Abenteuer in der bekannten Welt aus Beast Quest von Adam Blade, Ulrich Thiele
+- Die Chroniken von Avantia: Band 1 - Der Kampf des Phönix: Abenteuer in der bekannten Welt aus Beast Quest von Adam Blade, Ulrich Thiele
 - Trägers des Feuers: Band I - Die Wiedergeburt von Harry N. Bockman
+- Shadowspell: Band I - Die Akadamie der Shatten von K. F. Breene, Shannon Mayer
 
 ## Netflix et al
 
@@ -108,7 +109,8 @@ This repository tracks the books I have read and other activities related to my 
 -------------- (native subtitles) ---------------
 - Biohackers (s1-2, n)
 - Liebe Kind (complete, n)
-- The Dragon Prince (s1-4, n)
+- The Dragon Prince (s1-5, d)
+- Avatar: The Last Airbender (s1, d)
 
 d: dubbed
 n: native
