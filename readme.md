@@ -112,6 +112,7 @@ This repository tracks the books I have read and other activities related to my 
 - Parfum (complete, n)
 - The Dragon Prince (s1-5, d)
 - Avatar: The Last Airbender (s1, d)
+- She-Ra and the Princesses of Power (s1, d)
 
 d: dubbed
 n: native
