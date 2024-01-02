@@ -80,6 +80,7 @@ This repository tracks the books I have read and other activities related to my 
 - Die Chroniken von Avantia: Band 1 - Der Kampf des Phönix: Abenteuer in der bekannten Welt aus Beast Quest von Adam Blade, Ulrich Thiele
 - Trägers des Feuers: Band I - Die Wiedergeburt von Harry N. Bockman
 - Shadowspell: Band I - Die Akadamie der Shatten von K. F. Breene, Shannon Mayer
+- White Fox - Der Rufe des Mondsteins von Chen Jiatong, Ulrike Köbele
 
 ## Netflix et al
 
