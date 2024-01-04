@@ -81,6 +81,8 @@ This repository tracks the books I have read and other activities related to my 
 - Trägers des Feuers: Band I - Die Wiedergeburt von Harry N. Bockman
 - Shadowspell: Band I - Die Akadamie der Shatten von K. F. Breene, Shannon Mayer
 - White Fox - Der Rufe des Mondsteins von Chen Jiatong, Ulrike Köbele
+- Eowyn: Band 0 - Geboren aus Nebel und Stahl von Elvira Zeissler
+    
 
 ## Netflix et al
 
@@ -113,7 +115,7 @@ This repository tracks the books I have read and other activities related to my 
 - Parfum (complete, n)
 - The Dragon Prince (s1-5, d)
 - Avatar: The Last Airbender (s1, d)
-- She-Ra and the Princesses of Power (s2, d)
+- She-Ra and the Princesses of Power (s3, d)
 
 d: dubbed
 n: native
