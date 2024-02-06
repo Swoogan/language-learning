@@ -82,6 +82,8 @@ This repository tracks the books I have read and other activities related to my 
 - Shadowspell: Band I - Die Akadamie der Shatten von K. F. Breene, Shannon Mayer
 - White Fox - Der Rufe des Mondsteins von Chen Jiatong, Ulrike Köbele
 - Eowyn: Band 0 - Geboren aus Nebel und Stahl von Elvira Zeissler
+- Eowyn: Band 1 - Das Erwachen der Jägerin von Elvira Zeissler
+- Eowyn: Band 2 - Die Entscheidung der Kriegerin von Elvira Zeissler
     
 
 ## Netflix et al
