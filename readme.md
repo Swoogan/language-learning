@@ -84,6 +84,7 @@ This repository tracks the books I have read and other activities related to my 
 - Eowyn: Band 0 - Geboren aus Nebel und Stahl von Elvira Zeissler
 - Eowyn: Band 1 - Das Erwachen der Jägerin von Elvira Zeissler
 - Eowyn: Band 2 - Die Entscheidung der Kriegerin von Elvira Zeissler
+- Eowyn: Band 3 - Im Auge des Orkans von Elvira Zeissler
     
 
 ## Netflix et al
@@ -117,7 +118,7 @@ This repository tracks the books I have read and other activities related to my 
 - Parfum (complete, n)
 - The Dragon Prince (s1-5, d)
 - Avatar: The Last Airbender (s1, d)
-- She-Ra and the Princesses of Power (s3, d)
+- She-Ra and the Princesses of Power (s1-3, d)
 
 d: dubbed
 n: native
