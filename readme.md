@@ -178,6 +178,7 @@ n: native
 - Orage, petit seigneur des ténèbres par Julien Hervieux
 - Chasseuse d'âmes: Les Murmures du chaos par Megära Nolhan et Pryscia Oscar 
 - La Guerre des Sept Lunes: Edhelja et l'Odelunier Perdu par Kenan Olivier
+- L’Œil du Monde par Robert Jordan, Jean Claude Mallé
 
 
 ## Netflix, et al
