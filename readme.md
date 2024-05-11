@@ -218,6 +218,10 @@ n: native
 - The Mandalorian (s3, d)
 - Vortex (n)
 - Dungeons and Dragons (d)
+-------------- (native subtitles) ---------------
+- Premier Trio (s1, n)
+- Orphan Black (select episodes, n)
+- Lupin (s1, n)
 
 d: dubbed
 n: native
