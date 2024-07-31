@@ -180,6 +180,7 @@ n: native
 - La Guerre des Sept Lunes: Edhelja et l'Odelunier Perdu par Kenan Olivier
 - L’Œil du Monde par Robert Jordan, Jean Claude Mallé
 - La Grande Quête par Robert Jordan, Jean Claude Mallé
+- Le Dragon Réincarné par Robert Jordan, Jean Claude Mallé
 
 
 ## Netflix, et al
