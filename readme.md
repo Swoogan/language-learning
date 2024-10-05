@@ -224,6 +224,8 @@ n: native
 - Premier Trio (s1, n)
 - Orphan Black (select episodes, n)
 - Lupin (s1, n)
+- Delicious in Dungeon (s1, d)
+- Twilight of the Gods (s1, d)
 
 d: dubbed
 n: native
