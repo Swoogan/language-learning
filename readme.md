@@ -181,6 +181,7 @@ n: native
 - L’Œil du Monde par Robert Jordan, Jean Claude Mallé
 - La Grande Quête par Robert Jordan, Jean Claude Mallé
 - Le Dragon Réincarné par Robert Jordan, Jean Claude Mallé
+- Un Lever de Ténèbres par Robert Jordan, Jean Claude Mallé
 
 
 ## Netflix, et al
