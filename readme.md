@@ -132,8 +132,7 @@ n: native
 - Memrise: French 2, part of 3
 - Clozemaster 100 simplest words (complete)
 - Clozemaster 500 simplest words (in progress)
-- Easy French Youtube Channel
-- Easy French podcast
+- Ohdio - Les années lumière  
 
 ## Books Read (since July 2021)
 
@@ -227,6 +226,7 @@ n: native
 - Lupin (s1, n)
 - Delicious in Dungeon (s1, d)
 - Twilight of the Gods (s1, d)
+- The Dragon Prince (s1-3, d)
 
 d: dubbed
 n: native
