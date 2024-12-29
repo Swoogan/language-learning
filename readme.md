@@ -182,6 +182,7 @@ n: native
 - Le Dragon Réincarné par Robert Jordan, Jean Claude Mallé
 - Un Lever de Ténèbres par Robert Jordan, Jean Claude Mallé
 - Les Feux du Ciel par Robert Jordan, Jean Claude Mallé
+- Le Seigneur du Chaos par Robert Jordan, Jean Claude Mallé
 
 
 ## Netflix, et al
