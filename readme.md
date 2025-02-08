@@ -229,7 +229,7 @@ n: native
 - Lupin (s1, n)
 - Delicious in Dungeon (s1, d)
 - Twilight of the Gods (s1, d)
-- The Dragon Prince (s1-3, d)
+- The Dragon Prince (s1-7, d)
 
 d: dubbed
 n: native
