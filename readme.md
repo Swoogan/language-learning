@@ -184,7 +184,7 @@ n: native
 - Les Feux du Ciel par Robert Jordan, Jean Claude Mallé
 - Le Seigneur du Chaos par Robert Jordan, Jean Claude Mallé
 - Une Courronne d'Épées par Robert Jordan, Jean Claude Mallé
-
+- Le Chemin des Dagues par Robert Jordan, Jean Claude Mallé
 
 ## Netflix, et al
 
