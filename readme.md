@@ -86,6 +86,7 @@ This repository tracks the books I have read and other activities related to my 
 - Eowyn: Band 2 - Die Entscheidung der Kriegerin von Elvira Zeissler
 - Eowyn: Band 3 - Im Auge des Orkans von Elvira Zeissler
 - Eowyn: Band 4 - Die Prinzessin der Ulfarat von Elvira Zeissler
+- Die Chroniken von Araluen - Die Ruinen von Gorlan von John Flanagan (Autor), Karlheinz Dürr (Übersetzer) 
     
 
 ## Netflix et al
