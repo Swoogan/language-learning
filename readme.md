@@ -231,6 +231,8 @@ n: native
 - Delicious in Dungeon (s1, d)
 - Twilight of the Gods (s1, d)
 - The Dragon Prince (s1-7, d)
+- L'oeil du cyclone (s4, n)
+- Premier Trio (s2, n)
 
 d: dubbed
 n: native
