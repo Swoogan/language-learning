@@ -186,6 +186,7 @@ n: native
 - Le Seigneur du Chaos par Robert Jordan, Jean Claude Mallé
 - Une Courronne d'Épées par Robert Jordan, Jean Claude Mallé
 - Le Chemin des Dagues par Robert Jordan, Jean Claude Mallé
+- Le Coeur de l'Hiver par Robert Jordan, Jean Claude Mallé
 
 ## Netflix, et al
 
