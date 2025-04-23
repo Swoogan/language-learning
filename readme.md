@@ -234,6 +234,7 @@ n: native
 - The Dragon Prince (s1-7, d)
 - L'oeil du cyclone (s4, n)
 - Premier Trio (s2, n)
+- L'oeil du cyclone (s1-3, n)
 
 d: dubbed
 n: native
