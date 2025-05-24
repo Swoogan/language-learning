@@ -187,6 +187,7 @@ n: native
 - Une Courronne d'Épées par Robert Jordan, Jean Claude Mallé
 - Le Chemin des Dagues par Robert Jordan, Jean Claude Mallé
 - Le Coeur de l'Hiver par Robert Jordan, Jean Claude Mallé
+- Le Carrefour du Crepuscule par Robert Jordan, Jean Claude Mallé
 
 ## Netflix, et al
 
