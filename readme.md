@@ -87,6 +87,7 @@ This repository tracks the books I have read and other activities related to my 
 - Eowyn: Band 3 - Im Auge des Orkans von Elvira Zeissler
 - Eowyn: Band 4 - Die Prinzessin der Ulfarat von Elvira Zeissler
 - Die Chroniken von Araluen - Die Ruinen von Gorlan von John Flanagan (Autor), Karlheinz Dürr (Übersetzer) 
+- Die Chroniken von Araluen - Die brennende Brücke von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
     
 
 ## Netflix et al
