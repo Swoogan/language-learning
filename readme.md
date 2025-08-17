@@ -190,6 +190,7 @@ n: native
 - Le Chemin des Dagues par Robert Jordan, Jean Claude Mallé
 - Le Coeur de l'Hiver par Robert Jordan, Jean Claude Mallé
 - Le Carrefour du Crepuscule par Robert Jordan, Jean Claude Mallé
+- Chasseuse d'âmes: La Danse des ombres par Megära Nolhan et Pryscia Oscar 
 
 ## Netflix, et al
 
@@ -237,7 +238,11 @@ n: native
 - The Dragon Prince (s1-7, d)
 - L'oeil du cyclone (s4, n)
 - Premier Trio (s2, n)
-- L'oeil du cyclone (s1-3, n)
+- L'oeil du cyclone (s1-4, n)
+- Horloge Biologique (n)
+- 1981 (n)
+- 1987 (n)
+- Premier Trio (s3, n)
 
 d: dubbed
 n: native
