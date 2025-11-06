@@ -193,6 +193,7 @@ n: native
 - Le Coeur de l'Hiver par Robert Jordan, Jean Claude Mallé
 - Le Carrefour du Crepuscule par Robert Jordan, Jean Claude Mallé
 - Chasseuse d'âmes: La Danse des ombres par Megära Nolhan et Pryscia Oscar 
+- La Tempête Imminente par Robert Jordan et Brandon Sanderson, Jean Claude Mallé
 
 ## Netflix, et al
 
