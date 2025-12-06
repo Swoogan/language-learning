@@ -195,6 +195,7 @@ n: native
 - Chasseuse d'âmes: La Danse des ombres par Megära Nolhan et Pryscia Oscar 
 - La Tempête Imminente par Robert Jordan et Brandon Sanderson, Jean Claude Mallé
 - Les Tours de Minuit par Robert Jordan et Brandon Sanderson, Jean Claude Mallé
+- Un Souvenir de Lumière par Robert Jordan et Brandon Sanderson, Jean Claude Mallé
 
 ## Netflix, et al
 
