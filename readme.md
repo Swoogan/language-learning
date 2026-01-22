@@ -91,6 +91,7 @@ This repository tracks the books I have read and other activities related to my 
 - Die Chroniken von Araluen - Der eiserne Ritter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
 - Die Chroniken von Araluen - Der Angriff der Temujai-Reiter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
 - Die Chroniken von Araluen - Der Krieger der Nacht von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
+- Die Chroniken von Araluen - Die Belagerung von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
     
 
 ## Netflix et al
@@ -126,7 +127,9 @@ This repository tracks the books I have read and other activities related to my 
 - Avatar: The Last Airbender (s1, d)
 - She-Ra and the Princesses of Power (s1-3, d)
 - Blue Eyed Samurai (s1, d)
+-------------- (no subtitles) ---------------
 - The Mighty Nein (s1, d)
+- Vox Machina (s1, d)
 
 d: dubbed
 n: native
