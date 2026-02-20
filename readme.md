@@ -129,7 +129,7 @@ This repository tracks the books I have read and other activities related to my 
 - Blue Eyed Samurai (s1, d)
 -------------- (no subtitles) ---------------
 - The Mighty Nein (s1, d)
-- Vox Machina (s1, d)
+- Vox Machina (s1-3, d)
 
 d: dubbed
 n: native
