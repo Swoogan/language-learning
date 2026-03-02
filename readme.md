@@ -130,6 +130,8 @@ This repository tracks the books I have read and other activities related to my 
 -------------- (no subtitles) ---------------
 - The Mighty Nein (s1, d)
 - Vox Machina (s1-3, d)
+- From Country Bumbkin to Sword Master (d)
+- Dragon Age Absolution (d)
 
 d: dubbed
 n: native
