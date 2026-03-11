@@ -132,6 +132,8 @@ This repository tracks the books I have read and other activities related to my 
 - Vox Machina (s1-3, d)
 - From Country Bumbkin to Sword Master (d)
 - Dragon Age Absolution (d)
+- Neon Genesis Evangelion (d)
+- The End of Evangelion (d)
 
 d: dubbed
 n: native
