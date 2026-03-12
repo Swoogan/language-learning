@@ -92,6 +92,7 @@ This repository tracks the books I have read and other activities related to my 
 - Die Chroniken von Araluen - Der Angriff der Temujai-Reiter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
 - Die Chroniken von Araluen - Der Krieger der Nacht von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
 - Die Chroniken von Araluen - Die Belagerung von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
+- Die Kliene Hexe von Otfried Preußler 
     
 
 ## Netflix et al
