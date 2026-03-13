@@ -135,6 +135,7 @@ This repository tracks the books I have read and other activities related to my 
 - Dragon Age Absolution (d)
 - Neon Genesis Evangelion (d)
 - The End of Evangelion (d)
+- Dota: Dragon's Blood (s1, d)
 
 d: dubbed
 n: native
