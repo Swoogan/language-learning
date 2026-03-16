@@ -94,6 +94,7 @@ This repository tracks the books I have read and other activities related to my 
 - Die Chroniken von Araluen - Die Belagerung von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
 - Die Kliene Hexe von Otfried Preußler 
 - Beast Quest: Ferno, Herr des Feuers von Adam Blade, Petra Wiese
+- Beast Quest: Sepron, König der Meere von Adam Blade, Petra Wiese
     
 
 ## Netflix et al
