@@ -8,7 +8,7 @@ This repository tracks the books I have read and other activities related to my 
 - Memrise
 - Lingq
 - TV5 Monde Apprendre
-- Black Cat CIDEB  eReader
+- Black Cat CIDEB eReader
 - Tandem (Mobile app)
 - [Simple Translate](https://addons.mozilla.org/en-CA/firefox/addon/simple-translate/)
 - [Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm)
@@ -44,9 +44,9 @@ This repository tracks the books I have read and other activities related to my 
 - Für S. von Angelika Bohn
 - Doktor Jekyll und Herr Hyde von Dominik Wexenburger, Robert Louis Stevenson
 - Herr Quintus und die geheime Liste von Angelika Bohn
-- Der kleine Drache: Das Märchen vom einsamen Drachen von Dörte Müller 
-- Schlaf gut, kleiner Fuchs!: Gute-Nacht-Geschichten von Dörte Müller 
-- Harry findet einen Freund von Dörte Müller 
+- Der kleine Drache: Das Märchen vom einsamen Drachen von Dörte Müller
+- Schlaf gut, kleiner Fuchs!: Gute-Nacht-Geschichten von Dörte Müller
+- Harry findet einen Freund von Dörte Müller
 - Beast Quest: Ferno, Herr des Feuers von Adam Blade, Petra Wiese
 - Beast Quest: Sepron, König der Meere von Adam Blade, Petra Wiese
 - Beast Quest: Arcta, Bezwinger der Berge von Adam Blade, Petra Wiese
@@ -54,14 +54,14 @@ This repository tracks the books I have read and other activities related to my 
 - Beast Quest: Nanook, Herrscherin der Eiswüste von Adam Blade, Petra Wiese
 - Beast Quest: Eposs, Gebieterin der Lüfte von Adam Blade, Petra Wiese
 - Galaxy Force: Coloss, Berg des Bösen von Adam Blade, Sandra Margineanu
-- Die Kliene Hexe von Otfried Preußler 
+- Die Kliene Hexe von Otfried Preußler
 - Der Räuber Hotzenplotz von Otfried Preußler
 - Emil Und die Detektive von Erich Kästner
 - Gespensterjäger auf eisiger Spur von Cornelia Funke
-- Die Chroniken von Araluen - Die Ruinen von Gorlan von John Flanagan (Autor), Karlheinz Dürr (Übersetzer) 
-- Die Chroniken von Araluen - Die brennende Brücke von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
-- Die Chroniken von Araluen - Der eiserne Ritter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
-- Die Chroniken von Araluen - Der Angriff der Temujai-Reiter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
+- Die Chroniken von Araluen - Die Ruinen von Gorlan von John Flanagan (Autor), Karlheinz Dürr (Übersetzer)
+- Die Chroniken von Araluen - Die brennende Brücke von John Flanagan (Autor), Angelika Eisold-Viebig (Übersetzer)
+- Die Chroniken von Araluen - Der eiserne Ritter von John Flanagan (Autor), Angelika Eisold-Viebig (Übersetzer)
+- Die Chroniken von Araluen - Der Angriff der Temujai-Reiter von John Flanagan (Autor), Angelika Eisold-Viebig (Übersetzer)
 - Beast Quest: Ferno, Herr des Feuers von Adam Blade, Petra Wiese
 - Nachbar Nr. 5 von Angelika Bohn
 - Beast Quest: Sepron, König der Meere von Adam Blade, Petra Wiese
@@ -71,7 +71,7 @@ This repository tracks the books I have read and other activities related to my 
 - Beast Quest: Eposs, Gebieterin der Lüfte von Adam Blade, Petra Wiese
 - Beast Quest: Zefa, Giagnat des Ozeans von Adam Blade, Petra Wiese
 - Der Räuber Hotzenplotz von Otfried Preußler
-- Harry findet einen Freund von Dörte Müller 
+- Harry findet einen Freund von Dörte Müller
 - Beast Quest: Clark, Riese des Dschungels von Adam Blade, Petra Wiese
 - Schule der Helden: Bedrohung aus der Unterwelt von Adam Blade, Sandra Margineanu
 - Schule der Helden: Angriff der Fledermaus-Armee von Adam Blade, Sandra Margineanu
@@ -86,16 +86,17 @@ This repository tracks the books I have read and other activities related to my 
 - Eowyn: Band 2 - Die Entscheidung der Kriegerin von Elvira Zeissler
 - Eowyn: Band 3 - Im Auge des Orkans von Elvira Zeissler
 - Eowyn: Band 4 - Die Prinzessin der Ulfarat von Elvira Zeissler
-- Die Chroniken von Araluen - Die Ruinen von Gorlan von John Flanagan (Autor), Karlheinz Dürr (Übersetzer) 
-- Die Chroniken von Araluen - Die brennende Brücke von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
-- Die Chroniken von Araluen - Der eiserne Ritter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
-- Die Chroniken von Araluen - Der Angriff der Temujai-Reiter von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
-- Die Chroniken von Araluen - Der Krieger der Nacht von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
-- Die Chroniken von Araluen - Die Belagerung von John Flanagan (Autor),  Angelika Eisold-Viebig (Übersetzer) 
-- Die Kliene Hexe von Otfried Preußler 
+- Die Chroniken von Araluen - Die Ruinen von Gorlan von John Flanagan (Autor), Karlheinz Dürr (Übersetzer)
+- Die Chroniken von Araluen - Die brennende Brücke von John Flanagan (Autor), Angelika Eisold-Viebig (Übersetzer)
+- Die Chroniken von Araluen - Der eiserne Ritter von John Flanagan (Autor), Angelika Eisold-Viebig (Übersetzer)
+- Die Chroniken von Araluen - Der Angriff der Temujai-Reiter von John Flanagan (Autor), Angelika Eisold-Viebig (Übersetzer)
+- Die Chroniken von Araluen - Der Krieger der Nacht von John Flanagan (Autor), Angelika Eisold-Viebig (Übersetzer)
+- Die Chroniken von Araluen - Die Belagerung von John Flanagan (Autor), Angelika Eisold-Viebig (Übersetzer)
+- Die Kliene Hexe von Otfried Preußler
 - Beast Quest: Ferno, Herr des Feuers von Adam Blade, Petra Wiese
 - Beast Quest: Sepron, König der Meere von Adam Blade, Petra Wiese
-    
+- Die unendliche Geschichte von Michael Ende
+- Beast Quest: Arcta, Bezwinger der Berge von Adam Blade, Petra Wiese
 
 ## Netflix et al
 
@@ -122,7 +123,7 @@ This repository tracks the books I have read and other activities related to my 
 - Arcane (s1, d)
 - Buba (n)
 - Paradise (n)
--------------- (native subtitles) ---------------
+  -------------- (native subtitles) ---------------
 - Biohackers (s1-2, n)
 - Liebe Kind (complete, n)
 - Parfum (complete, n)
@@ -130,7 +131,7 @@ This repository tracks the books I have read and other activities related to my 
 - Avatar: The Last Airbender (s1, d)
 - She-Ra and the Princesses of Power (s1-3, d)
 - Blue Eyed Samurai (s1, d)
--------------- (no subtitles) ---------------
+  -------------- (no subtitles) ---------------
 - The Mighty Nein (s1, d)
 - Vox Machina (s1-3, d)
 - From Country Bumbkin to Sword Master (d)
@@ -140,6 +141,7 @@ This repository tracks the books I have read and other activities related to my 
 - Dota: Dragon's Blood (s1, d)
 - Tales from Earthsea (d)
 - Eden (d)
+- Dota: Dragon's Blood (s1-2, d)
 
 d: dubbed
 n: native
@@ -151,7 +153,7 @@ n: native
 - Memrise: French 2, part of 3
 - Clozemaster 100 simplest words (complete)
 - Clozemaster 500 simplest words (in progress)
-- Ohdio - Les années lumière  
+- Ohdio - Les années lumière
 
 ## Books Read (since July 2021)
 
@@ -187,14 +189,14 @@ n: native
 - Histoire du chien Gribouille par Marc Thil
 - Un voisin étrange par Florian Dennisson
 - Chroniques post-apocalyptiques d'une enfant sage par Annie Bacon
-- Chasseuse d'âmes: La Danse des ombres par Megära Nolhan et Pryscia Oscar 
-- Chasseuse d'âmes: Le Prix du savoir par Megära Nolhan et Pryscia Oscar 
+- Chasseuse d'âmes: La Danse des ombres par Megära Nolhan et Pryscia Oscar
+- Chasseuse d'âmes: Le Prix du savoir par Megära Nolhan et Pryscia Oscar
 - La petite Yvana par Marc Thil
 - Le mystère du train de la nuit par Marc Thil (incomplete)
 - Interdit! par Florence Jenner Metz
 - Lucie Simes et le miroir brisé par Benjamin Leduc
 - Orage, petit seigneur des ténèbres par Julien Hervieux
-- Chasseuse d'âmes: Les Murmures du chaos par Megära Nolhan et Pryscia Oscar 
+- Chasseuse d'âmes: Les Murmures du chaos par Megära Nolhan et Pryscia Oscar
 - La Guerre des Sept Lunes: Edhelja et l'Odelunier Perdu par Kenan Olivier
 - L’Œil du Monde par Robert Jordan, Jean Claude Mallé
 - La Grande Quête par Robert Jordan, Jean Claude Mallé
@@ -206,7 +208,7 @@ n: native
 - Le Chemin des Dagues par Robert Jordan, Jean Claude Mallé
 - Le Coeur de l'Hiver par Robert Jordan, Jean Claude Mallé
 - Le Carrefour du Crepuscule par Robert Jordan, Jean Claude Mallé
-- Chasseuse d'âmes: La Danse des ombres par Megära Nolhan et Pryscia Oscar 
+- Chasseuse d'âmes: La Danse des ombres par Megära Nolhan et Pryscia Oscar
 - La Tempête Imminente par Robert Jordan et Brandon Sanderson, Jean Claude Mallé
 - Les Tours de Minuit par Robert Jordan et Brandon Sanderson, Jean Claude Mallé
 - Un Souvenir de Lumière par Robert Jordan et Brandon Sanderson, Jean Claude Mallé
@@ -248,7 +250,7 @@ n: native
 - The Mandalorian (s3, d)
 - Vortex (n)
 - Dungeons and Dragons (d)
--------------- (native subtitles) ---------------
+  -------------- (native subtitles) ---------------
 - Premier Trio (s1, n)
 - Orphan Black (select episodes, n)
 - Lupin (s1, n)
