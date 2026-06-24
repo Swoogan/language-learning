@@ -98,6 +98,7 @@ This repository tracks the books I have read and other activities related to my 
 - Die unendliche Geschichte von Michael Ende
 - Beast Quest: Arcta, Bezwinger der Berge von Adam Blade, Petra Wiese
 - Leviathan Erwacht von James S. A. Corey, Jürugen Langowski
+- Der Schlächter der Anderson-Station von James Corey, Marcel Häußler
 
 ## Netflix et al
 
