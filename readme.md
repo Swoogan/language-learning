@@ -144,6 +144,8 @@ This repository tracks the books I have read and other activities related to my 
 - Tales from Earthsea (d)
 - Eden (d)
 - Dota: Dragon's Blood (s1-2, d)
+- Love Death + Robots (s1-4, d)
+- Outlast: The Jungle (s1, d)
 
 d: dubbed
 n: native
