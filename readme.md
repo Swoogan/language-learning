@@ -99,6 +99,7 @@ This repository tracks the books I have read and other activities related to my 
 - Beast Quest: Arcta, Bezwinger der Berge von Adam Blade, Petra Wiese
 - Leviathan Erwacht von James S. A. Corey, Jürugen Langowski
 - Der Schlächter der Anderson-Station von James Corey, Marcel Häußler
+- Calibans Krieg von James Corey, Marcel Häußler
 
 ## Netflix et al
 
@@ -146,6 +147,7 @@ This repository tracks the books I have read and other activities related to my 
 - Dota: Dragon's Blood (s1-2, d)
 - Love Death + Robots (s1-4, d)
 - Outlast: The Jungle (s1, d)
+- Outlast (s1, d)
 
 d: dubbed
 n: native
