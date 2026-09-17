@@ -99,7 +99,7 @@ This repository tracks the books I have read and other activities related to my 
 - Beast Quest: Arcta, Bezwinger der Berge von Adam Blade, Petra Wiese
 - Leviathan Erwacht von James S. A. Corey, Jürugen Langowski
 - Der Schlächter der Anderson-Station von James Corey, Marcel Häußler
-- Calibans Krieg von James Corey, Marcel Häußler
+- Calibans Krieg von James Corey, Jürugen Langowski
 
 ## Netflix et al
 
@@ -218,6 +218,7 @@ n: native
 - La Tempête Imminente par Robert Jordan et Brandon Sanderson, Jean Claude Mallé
 - Les Tours de Minuit par Robert Jordan et Brandon Sanderson, Jean Claude Mallé
 - Un Souvenir de Lumière par Robert Jordan et Brandon Sanderson, Jean Claude Mallé
+- Orage, petit seigneur des ténèbres par Julien Hervieux
 
 ## Netflix, et al
 
