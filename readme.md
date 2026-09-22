@@ -100,6 +100,7 @@ This repository tracks the books I have read and other activities related to my 
 - Leviathan Erwacht von James S. A. Corey, Jürugen Langowski
 - Der Schlächter der Anderson-Station von James Corey, Marcel Häußler
 - Calibans Krieg von James Corey, Jürugen Langowski
+- Der Gott des Risikos von James Corey, Marcel Häußler
 
 ## Netflix et al
 
