@@ -272,6 +272,7 @@ n: native
 - 1981 (n)
 - 1987 (n)
 - Premier Trio (s3, n)
+- Stargate: SG1 (s1-2, d)
 
 d: dubbed
 n: native
